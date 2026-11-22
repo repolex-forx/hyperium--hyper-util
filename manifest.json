@@ -265,7 +265,9 @@
           "githubUrl": "https://github.com/seanmonstar/pretty-env-logger",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/b23a13e2b7ee73e15ba008cd9b19dcd2d3861957/chunk-001.nq.gz",
+      "dep": "dep/b23a13e2b7ee73e15ba008cd9b19dcd2d3861957.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
